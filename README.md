@@ -27,4 +27,4 @@
 
 
 <8월 18일>
-제스처 메핑 시 if len(coordinateList) < 40:로 고정해서 쓸대없는 것을 조금 더 거르도록 하자
+제스처 메핑 시 if len(coordinateList) < 30:로 고정해서 쓸대없는 것을 조금 더 거르도록 하자

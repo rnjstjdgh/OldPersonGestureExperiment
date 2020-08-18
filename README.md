@@ -24,3 +24,7 @@
 주의사항: yolo 기본 체크포인트는 용량상 올리지 않음(구글 드라이브에 별도 저장해둠 - darknet_weight.zip)
 
 실험 데이터와 결과 데이터도 구글드라이브에 별도 저장(Experiment.zip / ResultFile.zip)
+
+
+<8월 18일>
+제스처 메핑 시 if len(coordinateList) < 40:로 고정해서 쓸대없는 것을 조금 더 거르도록 하자

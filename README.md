@@ -26,3 +26,4 @@
 실험 데이터와 결과 데이터도 구글드라이브에 별도 저장(Experiment.zip / ResultFile.zip)
 
 
+상세 내용은 별도 한글파일에 

@@ -232,9 +232,9 @@ def GestureMapping(coordinateList, videoName):
 
     f.write('='*1000 + '\n')
     f.write("<CoordinateList>\n")
-    f.write('[')
+    f.write('coordinateList: [')
     for coordinate in coordinateList:
-        f.write('(' +str(coordinate[0]) + ',' + str(coordinate[1]) + ')')
+        f.write(str(coordinate[0]) + ',' + str(coordinate[1]) + '/')
     f.write(']\n')
 
     if len(coordinateList) < 10:  # 좌표가 10개보다 없으면 그냥 메칭되는 제스처가 없다고 판단

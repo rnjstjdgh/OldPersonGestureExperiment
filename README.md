@@ -4,6 +4,7 @@
 1) 가상환경 설정
 
 -> tensorflow                      : 1.12.0
+
 -> opencv(opencv-contrib 없음)     : 3.4.2
 
 => open cv 버전 추후 더 확인 필요
@@ -14,6 +15,9 @@
 -> 입력 비디오 경로 : ./ExperimentData/*
 
 -> 출력 텍스트, 비디오 경로 : ./ResultFile/*
+
+
+3) yolo손 검출 가로 영역 
 
 
 

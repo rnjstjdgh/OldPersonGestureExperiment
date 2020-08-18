@@ -63,4 +63,5 @@ __pycache__/
 # darknet
 *.weights
 
-data/darknet_weights/*
+data/darknet_weights/
+ExperimentData/

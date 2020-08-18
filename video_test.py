@@ -407,12 +407,12 @@ with tf.Session() as sess:
 
             if maxScore > 0.1:
                 x0, y0, x1, y1 = boxes_[maxScorePos]
-                if x0 - w / 10 > 0:
-                    x0 = x0 - w / 10
+                # if x0 - w / 10 > 0:
+                #     x0 = x0 - w / 10
                 if y0 - h / 7 > 0:
                     y0 = y0 - h / 7
-                if x1 + w / 10 < w:
-                    x1 = x1 + w / 10
+                # if x1 + w / 10 < w:
+                #     x1 = x1 + w / 10
                 # 아래쪽으로 바운딩 박스를 확장할 필요는 없다. => 어차피 손가락은 위에 있기 때문이다.
                 # if y1 + h / 8 < h:
                 #     y1 = y1 + h / 8

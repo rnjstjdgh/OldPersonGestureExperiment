@@ -1,15 +1,15 @@
-# 노인제스처 실험프로젝트
+# 노인을 위한 손가락 궤적 기반 제스처 인식 시스템
 
 ## 0) 프로젝트 설명
 
 ### (1) 전체 시스템 설계
-![image](https://user-images.githubusercontent.com/41561652/93848040-95d8a380-fce3-11ea-868c-9055ac9d8c47.png)
+![image](https://user-images.githubusercontent.com/41561652/93848409-768e4600-fce4-11ea-9b63-2d12db6ae431.png)
 
-### (2) 손가락 검출 알고리즘()
-![image](https://user-images.githubusercontent.com/41561652/93848061-a7ba4680-fce3-11ea-891f-5d97182df59f.png)
+### (2) 손가락 검출 알고리즘
+![image](https://user-images.githubusercontent.com/41561652/93848445-886fe900-fce4-11ea-8ff2-424a873d8278.png)
 
 ### (3) 제스처 매핑 알고리즘
-![image](https://user-images.githubusercontent.com/41561652/93848127-bef93400-fce3-11ea-9c71-14170f755630.png)
+![image](https://user-images.githubusercontent.com/41561652/93848463-945bab00-fce4-11ea-8c03-05b301cfb6fd.png)
 
 ## 1) 가상환경 설정
 

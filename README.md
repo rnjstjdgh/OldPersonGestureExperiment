@@ -1,6 +1,10 @@
 # 노인을 위한 손가락 궤적 기반 제스처 인식 시스템
 
+
+
 ## 0) 프로젝트 설명
+
+### (0) video_test.py를 통해 실행
 
 ### (1) 전체 시스템 설계
 ![image](https://user-images.githubusercontent.com/41561652/93848409-768e4600-fce4-11ea-9b63-2d12db6ae431.png)
@@ -10,6 +14,12 @@
 
 ### (3) 제스처 매핑 알고리즘
 ![image](https://user-images.githubusercontent.com/41561652/93848463-945bab00-fce4-11ea-8c03-05b301cfb6fd.png)
+
+### (4) 실행 예시
+![image](https://user-images.githubusercontent.com/41561652/93849089-329c4080-fce6-11ea-87a0-708302bfd229.png)
+
+![image](https://user-images.githubusercontent.com/41561652/93849101-3c25a880-fce6-11ea-8258-f70fc4019319.png)
+
 
 ## 1) 가상환경 설정
 
